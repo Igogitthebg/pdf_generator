@@ -4,7 +4,7 @@ from PIL import Image
 from utils import load_main_image, pillow_to_tk_image
 from event import start_event, load_event, save_event
 #from utils import
-
+print ("HELLO")
 def main():
     window = tk.Tk() 
     monitor_width  = window.winfo_screenwidth()
