@@ -13,16 +13,24 @@ PDF Generator is a simple, yet powerful utility that allows users to convert var
 ## Installation
 <img src="https://img.shields.io/badge/Python-002323?style=flat&logo=Python&logoColor=red"/>
 
-Clone the repository or download the source code:
+1. Clone the repository or download the source code:
 ```bash
 git clone https://github.com/Igogitthebg/pdf_generator.git
 ```
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd Desktop
 cd pdf_generaor
 ```
-
+3. Install the required things:
+```bash
+pip install ~~
+```
+## Usage
+To run the PDF Generator:
+```bash
+python main.py
+```
 ## Contribution
 We welcome contributions from the users. Provide us feedback on github.
 Thanks for using, hope you found it helpful
