@@ -1,26 +1,30 @@
-<div align=center>
-	<img src="https://www.fifplay.com/img/public/premier-league-logo.png" />	
-</div>
+# PDF Generator
 
-# [1] PDF Generator
-## What is this?
-### This is for everyone who needs pdf !
-## Please feel free to use, I hope you find this helpful
+## Overview
+PDF Generator is a simple, yet powerful utility that allows users to convert various file formats into PDF documents. With an easy-to-use interface, this tool can make the process of creating and sharing professional-quality PDFs as smooth as possible.
 
-![header](pdf_generator_img.jpeg)
+## Features
+- Convert multiple file formats into PDF documents (e.g., Word, Excel, PowerPoint, images, HTML, and more)
 
+## Prerequisites
+- Python 3.8 or later
+- Required Python libraries: reportlab, pdf2image
 
-# [2] Platforms
+## Installation
 <img src="https://img.shields.io/badge/Python-002323?style=flat&logo=Python&logoColor=red"/>
 
-![interface](pdf_generator_img.jpeg)
-
-
-
-# [3] Source Code
+Clone the repository or download the source code:
 ```bash
 git clone https://github.com/Igogitthebg/pdf_generator.git
-cd pdf_generator
-python main.py
 ```
+Navigate to the project directory:
+```bash
+cd Desktop
+cd pdf_generaor
+```
+
+## Contribution
+We welcome contributions from the users. Provide us feedback on github.
+Thanks for using, hope you found it helpful
+![img](ast.jpeg)
 
