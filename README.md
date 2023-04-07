@@ -20,11 +20,12 @@ git clone https://github.com/Igogitthebg/pdf_generator.git
 2. Navigate to the project directory:
 ```bash
 cd Desktop
-cd pdf_generaor
+cd pdf_generator
 ```
 3. Install the required things:
 ```bash
-pip install ~~
+pip install reportlab
+pip install pdf2image
 ```
 ## Usage
 To run the PDF Generator:
