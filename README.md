@@ -2,47 +2,25 @@
 	<img src="https://www.fifplay.com/img/public/premier-league-logo.png" />	
 </div>
 
-# [1] Header 
+# [1] PDF Generator
+## What is this?
+### This is for everyone who needs pdf !
+## Please feel free to use, I hope you find this helpful
 
-![header](https://fabrikbrands.com/wp-content/uploads/Premier-League-Team-Logos-2-2048x1280.png)
-
-wave (default)
-egg
-shark
-slice
-rect
-soft
-rounded
-cylinder
-waving
-transparent
+![header](transparent)
 
 
-# 📚 Tech Stack 📚
-# ✨ Platforms & Languages ✨
-
+# [2] Platforms
 <img src="https://img.shields.io/badge/Python-002323?style=flat&logo=Python&logoColor=red"/>
 
-<img src="https://img.shields.io/badge/C++-004713?style=flat&logo=C&logoColor=yellow"/>
-
-<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Conda-Forge&logoColor=white"/>
+![interface](pdf_generator_img.jpeg)
 
 
-### [2] source code
-```python
-import os
-print('hello')
+
+# [3] Source Code
+```bash
+git clone https://github.com/Igogitthebg/pdf_generator.git
+cd pdf_generator
+python main.py
 ```
-
-### [3] bullet point
-* bullet point
-    * abc
-        * 123
-
-
-### [4] link 
-[Google](http://usaco.org/)
-
-### [5] image 
-![gold](/resource/gold.png)
 
