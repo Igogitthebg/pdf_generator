@@ -1,10 +1,10 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Marvin%20Github!&fontSize=90" />	
+	<img src="https://www.fifplay.com/img/public/premier-league-logo.png" />	
 </div>
 
 # [1] Header 
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Marvin%20Github!&fontSize=90)
+![header](https://fabrikbrands.com/wp-content/uploads/Premier-League-Team-Logos-2-2048x1280.png)
 
 wave (default)
 egg
